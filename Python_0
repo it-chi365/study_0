@@ -2,3 +2,4 @@ asd=''
 while asd!='Alice'
   print('Hello, stronger!')
   asd=input('Please tell your name')
+print("Hello, World!")
